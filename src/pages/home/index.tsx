@@ -29,7 +29,7 @@ import {
 
 export const Home = (): JSX.Element => {
   const gihubUrl = `https://github.com/${userData.githubUser}`;
-  const portfolioUrl = `https://drive.google.com/file/d/17pqWrKT7CPQevTtVf-UylhMjUlcAC10l/view?usp=sharing`;
+  const portfolioUrl = `${userData.resume}`;
 
   return (
     <main id="home">
