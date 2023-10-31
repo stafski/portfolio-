@@ -33,7 +33,7 @@ export const Contacts = () => {
               <Text type="heading2" color="grey4">
                 Let's talk and{" "}
                 <Text as="span" type="heading2" color="brand1">
-                  develop solutions for your company
+                  develop solutions to your company
                 </Text>
                 , together!
               </Text>
@@ -49,7 +49,7 @@ export const Contacts = () => {
                   My Whatsapp
                 </Text>
                 <Text color="grey2" type="body2">
-                  I'm available for a voice chat, let's about creativity
+                  I'm available for a voice chat, let's talk about creativity
                   together?
                 </Text>
                 <Text
