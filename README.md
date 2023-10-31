@@ -34,4 +34,5 @@ Segue as informações sobre cada um:
     - **githubUser:** _Essa informação é bastante importante para que os repositórios sejam exibidos, bem como o link do seu github e a imagem de perfil que ficará disponível na página_
     - **linkedinUser:** _Inserindo o usuário do seu linkedin será gerado um link para que os usuários acessem seu LinkedIn_
     - **whatsappNumber:** _Nessa propriedade você precisará inserir seu DDD junto com o seu número do whatsapp, assim quem clicar no link "whatsapp" irá ser enviado para o seu contato já com uma mensagem pré-definida_
+    - **about** _Escreva uma breve descrição sobre você_
     - **resume:** _Url do local onde está o curriculo._
